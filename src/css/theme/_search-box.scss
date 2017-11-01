@@ -9,7 +9,8 @@
   font-size: 14px;
 
   &--input {
-    appearence: none;
+    appearance: none;
+    font: inherit;
     background: $white;
     display: inline-block;
     border: 1px solid #D4D8E3;
